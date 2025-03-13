@@ -1,0 +1,233 @@
+[
+  {
+    "id": "BT001",
+    "name": "Business Travel",
+    "slug": "business-travel",
+    "category": "Business",
+    "description": "PJ Charter's Business Travel service provides efficient and reliable private jet solutions for corporate travel. Our service is designed to maximize productivity and minimize travel time, allowing executives to focus on what matters most.",
+    "benefits": [
+      "Time Efficiency",
+      "Flexible Scheduling",
+      "Privacy and Confidentiality",
+      "Productivity Enhancement",
+      "Access to Multiple Destinations",
+      "Customized Experience"
+    ],
+    "suitable_aircraft": [
+      "Citation CJ4",
+      "Phenom 300",
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Hawker 900XP"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "LT001",
+    "name": "Leisure Travel",
+    "slug": "leisure-travel",
+    "category": "Leisure",
+    "description": "Experience the ultimate in luxury travel with PJ Charter's Leisure Travel service. Begin your vacation the moment you step onboard, with personalized service and premium amenities tailored to your preferences.",
+    "benefits": [
+      "Ultimate Comfort",
+      "Personalized Service",
+      "Access to Remote Destinations",
+      "Flexible Scheduling",
+      "Family-Friendly Experience",
+      "Gourmet Catering"
+    ],
+    "suitable_aircraft": [
+      "Phenom 300",
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Falcon 7X",
+      "Bombardier Global 6000"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "GC001",
+    "name": "Group Charters",
+    "slug": "group-charters",
+    "category": "Group",
+    "description": "PJ Charter's Group Charter service provides specialized solutions for group travel, events, and corporate retreats. We offer seamless coordination for multiple passengers, ensuring a smooth and enjoyable experience for everyone.",
+    "benefits": [
+      "Accommodates Large Groups",
+      "Custom Itineraries",
+      "Event Coordination",
+      "Cost-Effective for Groups",
+      "Consistent Experience",
+      "Personalized Service"
+    ],
+    "suitable_aircraft": [
+      "Hawker 900XP",
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Boeing BBJ",
+      "Airbus ACJ320",
+      "Embraer Lineage 1000E"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "MT001",
+    "name": "Medical Transport",
+    "slug": "medical-transport",
+    "category": "Specialized",
+    "description": "Our Medical Transport service provides swift and comfortable air ambulance solutions for patients requiring medical travel. We coordinate with medical professionals to ensure all necessary equipment and care is available during the flight.",
+    "benefits": [
+      "Swift Response",
+      "Medical Equipment Integration",
+      "Comfortable Patient Transport",
+      "Global Coverage",
+      "Coordination with Medical Facilities",
+      "Privacy and Dignity"
+    ],
+    "suitable_aircraft": [
+      "Citation CJ4",
+      "Citation XLS+",
+      "Gulfstream G550",
+      "Bombardier Global 6000"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "ET001",
+    "name": "Event Transport",
+    "slug": "event-transport",
+    "category": "Specialized",
+    "description": "PJ Charter's Event Transport service provides seamless travel solutions for special events, concerts, sports tournaments, and more. We coordinate multiple aircraft and complex logistics to ensure all participants arrive on schedule.",
+    "benefits": [
+      "Coordinated Group Arrivals",
+      "VIP Experience",
+      "Custom Branding Options",
+      "Flexible Scheduling",
+      "Global Coverage",
+      "Dedicated Event Coordinator"
+    ],
+    "suitable_aircraft": [
+      "Gulfstream G150",
+      "Hawker 900XP",
+      "Gulfstream G550",
+      "Boeing BBJ",
+      "Airbus ACJ320"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "RT001",
+    "name": "Roadshow Travel",
+    "slug": "roadshow-travel",
+    "category": "Business",
+    "description": "Our Roadshow Travel service is designed for executives and teams visiting multiple cities in a short timeframe. We optimize your schedule to maximize productivity and minimize travel time between destinations.",
+    "benefits": [
+      "Efficient Multi-City Itineraries",
+      "Consistent Experience Across Destinations",
+      "Onboard Meeting Capabilities",
+      "Schedule Flexibility",
+      "Productivity Enhancement",
+      "Global Coverage"
+    ],
+    "suitable_aircraft": [
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Hawker 900XP",
+      "Gulfstream G550",
+      "Falcon 7X"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "HT001",
+    "name": "Honeymoon Travel",
+    "slug": "honeymoon-travel",
+    "category": "Leisure",
+    "description": "Start your married life in style with our Honeymoon Travel service. We provide the ultimate romantic experience with personalized touches to make your journey as special as your destination.",
+    "benefits": [
+      "Ultimate Privacy",
+      "Romantic Atmosphere",
+      "Personalized Service",
+      "Champagne and Gourmet Dining",
+      "Flexible Scheduling",
+      "Access to Remote Romantic Destinations"
+    ],
+    "suitable_aircraft": [
+      "Phenom 300",
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Falcon 7X"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "FT001",
+    "name": "Family Travel",
+    "slug": "family-travel",
+    "category": "Leisure",
+    "description": "Our Family Travel service is designed with the needs of families in mind. Enjoy spacious cabins, family-friendly amenities, and personalized service that caters to travelers of all ages.",
+    "benefits": [
+      "Child-Friendly Amenities",
+      "Spacious Cabins",
+      "Family Meal Options",
+      "Entertainment for All Ages",
+      "Pet-Friendly Options",
+      "Assistance with Family Logistics"
+    ],
+    "suitable_aircraft": [
+      "Citation XLS+",
+      "Hawker 900XP",
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Boeing BBJ",
+      "Airbus ACJ320"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "ST001",
+    "name": "Sports Team Travel",
+    "slug": "sports-team-travel",
+    "category": "Group",
+    "description": "PJ Charter's Sports Team Travel service provides specialized transportation for professional and amateur sports teams. We accommodate equipment, customize catering for athletes, and ensure timely arrivals for competitions.",
+    "benefits": [
+      "Equipment Accommodation",
+      "Nutrition-Focused Catering",
+      "Team Seating Arrangements",
+      "Schedule Flexibility for Competitions",
+      "Recovery-Optimized Cabin Environment",
+      "Global Tournament Coverage"
+    ],
+    "suitable_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000",
+      "Boeing BBJ",
+      "Airbus ACJ320",
+      "Embraer Lineage 1000E"
+    ],
+    "image_url": ""
+  },
+  {
+    "id": "CT001",
+    "name": "Celebrity Travel",
+    "slug": "celebrity-travel",
+    "category": "Specialized",
+    "description": "Our Celebrity Travel service offers the ultimate in privacy, security, and luxury for high-profile individuals. We provide discreet transportation with enhanced security measures and premium amenities.",
+    "benefits": [
+      "Ultimate Privacy",
+      "Enhanced Security",
+      "Discreet Ground Handling",
+      "Customized Luxury Experience",
+      "Global Coverage with Short Notice",
+      "Media Avoidance"
+    ],
+    "suitable_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000",
+      "Boeing BBJ",
+      "Airbus ACJ320"
+    ],
+    "image_url": ""
+  }
+]

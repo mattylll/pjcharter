@@ -1,0 +1,282 @@
+[
+  {
+    "id": "LON-NYC",
+    "origin_id": "LON001",
+    "destination_id": "NYC001",
+    "distance_km": 5570,
+    "flight_time_hours": 7.5,
+    "popular_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000"
+    ],
+    "description": "The London to New York route is one of the most popular transatlantic business routes, connecting two major financial centers. Private jets offer significant time savings with direct flights and quick customs clearance.",
+    "image_url": ""
+  },
+  {
+    "id": "LON-PAR",
+    "origin_id": "LON001",
+    "destination_id": "PAR001",
+    "distance_km": 340,
+    "flight_time_hours": 1,
+    "popular_aircraft": [
+      "Citation CJ4",
+      "Phenom 300",
+      "Learjet 75"
+    ],
+    "description": "The London to Paris route is a quick hop between two of Europe's most important cities. Private jets offer convenience with flights between city airports like London City and Paris Le Bourget.",
+    "image_url": ""
+  },
+  {
+    "id": "NYC-MIA",
+    "origin_id": "NYC001",
+    "destination_id": "MIA001",
+    "distance_km": 1760,
+    "flight_time_hours": 3,
+    "popular_aircraft": [
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Hawker 900XP"
+    ],
+    "description": "The New York to Miami route is popular year-round, especially during winter months. Private jets offer direct flights between Teterboro and Opa-locka Executive Airport.",
+    "image_url": ""
+  },
+  {
+    "id": "LON-DXB",
+    "origin_id": "LON001",
+    "destination_id": "DXB001",
+    "distance_km": 5500,
+    "flight_time_hours": 7,
+    "popular_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000"
+    ],
+    "description": "The London to Dubai route connects Europe with the Middle East. Long-range private jets offer nonstop flights with ultimate comfort for this extended journey.",
+    "image_url": ""
+  },
+  {
+    "id": "PAR-NIC",
+    "origin_id": "PAR001",
+    "destination_id": "NIC001",
+    "distance_km": 690,
+    "flight_time_hours": 1.5,
+    "popular_aircraft": [
+      "Citation CJ4",
+      "Phenom 300",
+      "Citation XLS+"
+    ],
+    "description": "The Paris to Nice route is popular for business travelers and vacationers heading to the French Riviera. Private jets offer quick and convenient access to the Côte d'Azur.",
+    "image_url": ""
+  },
+  {
+    "id": "NYC-LAX",
+    "origin_id": "NYC001",
+    "destination_id": "LAX001",
+    "distance_km": 3940,
+    "flight_time_hours": 5.5,
+    "popular_aircraft": [
+      "Gulfstream G150",
+      "Hawker 900XP",
+      "Gulfstream G550"
+    ],
+    "description": "The New York to Los Angeles route is one of the most popular transcontinental routes in the US. Private jets offer nonstop flights with significant time savings.",
+    "image_url": ""
+  },
+  {
+    "id": "LON-GVA",
+    "origin_id": "LON001",
+    "destination_id": "GVA001",
+    "distance_km": 750,
+    "flight_time_hours": 1.8,
+    "popular_aircraft": [
+      "Citation CJ4",
+      "Phenom 300",
+      "Citation XLS+"
+    ],
+    "description": "The London to Geneva route is popular for business travelers and ski enthusiasts. Private jets offer convenient access to this global financial center and gateway to the Alps.",
+    "image_url": ""
+  },
+  {
+    "id": "SIN-HKG",
+    "origin_id": "SIN001",
+    "destination_id": "HKG001",
+    "distance_km": 2570,
+    "flight_time_hours": 3.8,
+    "popular_aircraft": [
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Hawker 900XP"
+    ],
+    "description": "The Singapore to Hong Kong route connects two major Asian financial hubs. Private jets offer flexibility and efficiency for business travelers in the region.",
+    "image_url": ""
+  },
+  {
+    "id": "DXB-MOS",
+    "origin_id": "DXB001",
+    "destination_id": "MOS001",
+    "distance_km": 3700,
+    "flight_time_hours": 5,
+    "popular_aircraft": [
+      "Gulfstream G150",
+      "Hawker 900XP",
+      "Gulfstream G550"
+    ],
+    "description": "The Dubai to Moscow route connects the Middle East with Eastern Europe. Private jets offer direct flights with premium comfort and privacy.",
+    "image_url": ""
+  },
+  {
+    "id": "SYD-AKL",
+    "origin_id": "SYD001",
+    "destination_id": "AKL001",
+    "distance_km": 2160,
+    "flight_time_hours": 3,
+    "popular_aircraft": [
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Hawker 900XP"
+    ],
+    "description": "The Sydney to Auckland route is a popular trans-Tasman journey. Private jets offer convenience and flexibility for business travelers between Australia and New Zealand.",
+    "image_url": ""
+  },
+  {
+    "id": "LAX-MIA",
+    "origin_id": "LAX001",
+    "destination_id": "MIA001",
+    "distance_km": 3750,
+    "flight_time_hours": 5.3,
+    "popular_aircraft": [
+      "Gulfstream G150",
+      "Hawker 900XP",
+      "Gulfstream G550"
+    ],
+    "description": "The Los Angeles to Miami route connects the US west and east coasts. Private jets offer nonstop flights with premium comfort for this cross-country journey.",
+    "image_url": ""
+  },
+  {
+    "id": "LON-ROM",
+    "origin_id": "LON001",
+    "destination_id": "ROM001",
+    "distance_km": 1440,
+    "flight_time_hours": 2.8,
+    "popular_aircraft": [
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Hawker 900XP"
+    ],
+    "description": "The London to Rome route connects the UK with Italy. Private jets offer direct flights to Ciampino Airport with convenient access to the city center.",
+    "image_url": ""
+  },
+  {
+    "id": "PAR-MIL",
+    "origin_id": "PAR001",
+    "destination_id": "MIL001",
+    "distance_km": 640,
+    "flight_time_hours": 1.5,
+    "popular_aircraft": [
+      "Citation CJ4",
+      "Phenom 300",
+      "Learjet 75"
+    ],
+    "description": "The Paris to Milan route connects two European fashion capitals. Private jets offer quick and convenient flights between these cultural and business hubs.",
+    "image_url": ""
+  },
+  {
+    "id": "NYC-GVA",
+    "origin_id": "NYC001",
+    "destination_id": "GVA001",
+    "distance_km": 6200,
+    "flight_time_hours": 8,
+    "popular_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000"
+    ],
+    "description": "The New York to Geneva route is popular for business travelers in finance and diplomacy. Long-range private jets offer nonstop flights with ultimate comfort.",
+    "image_url": ""
+  },
+  {
+    "id": "HKG-TOK",
+    "origin_id": "HKG001",
+    "destination_id": "TOK001",
+    "distance_km": 2900,
+    "flight_time_hours": 4,
+    "popular_aircraft": [
+      "Citation XLS+",
+      "Gulfstream G150",
+      "Hawker 900XP"
+    ],
+    "description": "The Hong Kong to Tokyo route connects two major Asian business centers. Private jets offer flexibility and efficiency for business travelers in the region.",
+    "image_url": ""
+  },
+  {
+    "id": "LON-ZRH",
+    "origin_id": "LON001",
+    "destination_id": "ZRH001",
+    "distance_km": 800,
+    "flight_time_hours": 1.8,
+    "popular_aircraft": [
+      "Citation CJ4",
+      "Phenom 300",
+      "Citation XLS+"
+    ],
+    "description": "The London to Zurich route is popular for business travelers in finance. Private jets offer convenient access to this global banking center.",
+    "image_url": ""
+  },
+  {
+    "id": "MIA-RIO",
+    "origin_id": "MIA001",
+    "destination_id": "RIO001",
+    "distance_km": 6700,
+    "flight_time_hours": 8.5,
+    "popular_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000"
+    ],
+    "description": "The Miami to Rio de Janeiro route connects North and South America. Long-range private jets offer nonstop flights with premium comfort for this extended journey.",
+    "image_url": ""
+  },
+  {
+    "id": "DXB-CPT",
+    "origin_id": "DXB001",
+    "destination_id": "CPT001",
+    "distance_km": 7700,
+    "flight_time_hours": 9.5,
+    "popular_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000"
+    ],
+    "description": "The Dubai to Cape Town route connects the Middle East with Southern Africa. Ultra-long-range private jets offer nonstop flights with ultimate comfort.",
+    "image_url": ""
+  },
+  {
+    "id": "SIN-SYD",
+    "origin_id": "SIN001",
+    "destination_id": "SYD001",
+    "distance_km": 6300,
+    "flight_time_hours": 8,
+    "popular_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000"
+    ],
+    "description": "The Singapore to Sydney route is a major connection between Asia and Australia. Long-range private jets offer nonstop flights with premium comfort.",
+    "image_url": ""
+  },
+  {
+    "id": "NYC-LON",
+    "origin_id": "NYC001",
+    "destination_id": "LON001",
+    "distance_km": 5570,
+    "flight_time_hours": 6.5,
+    "popular_aircraft": [
+      "Gulfstream G550",
+      "Falcon 7X",
+      "Bombardier Global 6000"
+    ],
+    "description": "The New York to London route benefits from tailwinds when flying eastbound, resulting in shorter flight times compared to the westbound journey. Private jets offer significant time savings with direct flights.",
+    "image_url": ""
+  }
+]

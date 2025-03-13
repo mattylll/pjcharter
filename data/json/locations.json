@@ -1,0 +1,342 @@
+[
+  {
+    "id": "LON001",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "airport_code": "LHR",
+    "description": "London is a global business hub with excellent connectivity and multiple airport options for private jets. The city offers world-class amenities, luxury accommodations, and convenient access to major financial centers.",
+    "popular_routes": [
+      "New York",
+      "Paris",
+      "Dubai",
+      "Geneva",
+      "Milan"
+    ],
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "id": "PAR001",
+    "city": "Paris",
+    "country": "France",
+    "region": "Europe",
+    "airport_code": "LBG",
+    "description": "Paris is renowned for its romantic ambiance, luxury shopping, and fine dining. The city's Le Bourget Airport is dedicated to private aviation, offering premium services and facilities.",
+    "popular_routes": [
+      "London",
+      "Geneva",
+      "Milan",
+      "Rome",
+      "Madrid"
+    ],
+    "latitude": 48.8566,
+    "longitude": 2.3522
+  },
+  {
+    "id": "NYC001",
+    "city": "New York",
+    "country": "United States",
+    "region": "North America",
+    "airport_code": "TEB",
+    "description": "New York is a global financial center with multiple convenient airport options for private jets. Teterboro Airport provides dedicated private aviation services with quick access to Manhattan.",
+    "popular_routes": [
+      "London",
+      "Los Angeles",
+      "Miami",
+      "Toronto",
+      "Chicago"
+    ],
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "id": "GVA001",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "region": "Europe",
+    "airport_code": "GVA",
+    "description": "Geneva is a global hub for diplomacy, finance, and luxury. The airport offers excellent private jet facilities and quick access to world-class ski resorts in the Alps.",
+    "popular_routes": [
+      "London",
+      "Paris",
+      "Milan",
+      "Zurich",
+      "Nice"
+    ],
+    "latitude": 46.2044,
+    "longitude": 6.1432
+  },
+  {
+    "id": "DXB001",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "airport_code": "DWC",
+    "description": "Dubai offers unparalleled luxury and business opportunities. Al Maktoum International Airport provides state-of-the-art facilities for private jets with VIP services.",
+    "popular_routes": [
+      "London",
+      "Paris",
+      "Moscow",
+      "Mumbai",
+      "Riyadh"
+    ],
+    "latitude": 25.2048,
+    "longitude": 55.2708
+  },
+  {
+    "id": "MIA001",
+    "city": "Miami",
+    "country": "United States",
+    "region": "North America",
+    "airport_code": "OPF",
+    "description": "Miami is a gateway to the Caribbean and Latin America, offering beautiful beaches, vibrant culture, and luxury lifestyle. Opa-locka Executive Airport provides excellent private jet services.",
+    "popular_routes": [
+      "New York",
+      "Los Angeles",
+      "Bahamas",
+      "Mexico City",
+      "Bogota"
+    ],
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  {
+    "id": "LAX001",
+    "city": "Los Angeles",
+    "country": "United States",
+    "region": "North America",
+    "airport_code": "VNY",
+    "description": "Los Angeles is the entertainment capital of the world with year-round sunshine. Van Nuys Airport is one of the busiest private aviation centers in the world.",
+    "popular_routes": [
+      "New York",
+      "Las Vegas",
+      "San Francisco",
+      "Mexico City",
+      "Vancouver"
+    ],
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": "NIC001",
+    "city": "Nice",
+    "country": "France",
+    "region": "Europe",
+    "airport_code": "NCE",
+    "description": "Nice is the gateway to the French Riviera, offering beautiful beaches, luxury resorts, and proximity to Monaco. The airport has dedicated private jet terminals.",
+    "popular_routes": [
+      "London",
+      "Paris",
+      "Geneva",
+      "Rome",
+      "Milan"
+    ],
+    "latitude": 43.7102,
+    "longitude": 7.262
+  },
+  {
+    "id": "ROM001",
+    "city": "Rome",
+    "country": "Italy",
+    "region": "Europe",
+    "airport_code": "CIA",
+    "description": "Rome combines ancient history with modern luxury. Ciampino Airport offers dedicated private jet facilities with quick access to the city center.",
+    "popular_routes": [
+      "London",
+      "Paris",
+      "Milan",
+      "Nice",
+      "Athens"
+    ],
+    "latitude": 41.9028,
+    "longitude": 12.4964
+  },
+  {
+    "id": "SIN001",
+    "city": "Singapore",
+    "country": "Singapore",
+    "region": "Asia",
+    "airport_code": "SIN",
+    "description": "Singapore is a global financial hub with excellent connectivity to Asia-Pacific. Changi Airport offers premium private jet services and world-class facilities.",
+    "popular_routes": [
+      "Hong Kong",
+      "Tokyo",
+      "Sydney",
+      "Bangkok",
+      "Jakarta"
+    ],
+    "latitude": 1.3521,
+    "longitude": 103.8198
+  },
+  {
+    "id": "HKG001",
+    "city": "Hong Kong",
+    "country": "China",
+    "region": "Asia",
+    "airport_code": "HKG",
+    "description": "Hong Kong is a major business center with excellent connections to mainland China and Asia. The airport offers dedicated private jet facilities.",
+    "popular_routes": [
+      "Singapore",
+      "Tokyo",
+      "Shanghai",
+      "Beijing",
+      "Sydney"
+    ],
+    "latitude": 22.3193,
+    "longitude": 114.1694
+  },
+  {
+    "id": "SYD001",
+    "city": "Sydney",
+    "country": "Australia",
+    "region": "Oceania",
+    "airport_code": "SYD",
+    "description": "Sydney offers stunning harbors, beautiful beaches, and a vibrant business district. The airport provides excellent private jet services.",
+    "popular_routes": [
+      "Singapore",
+      "Hong Kong",
+      "Melbourne",
+      "Auckland",
+      "Los Angeles"
+    ],
+    "latitude": -33.8688,
+    "longitude": 151.2093
+  },
+  {
+    "id": "MIL001",
+    "city": "Milan",
+    "country": "Italy",
+    "region": "Europe",
+    "airport_code": "LIN",
+    "description": "Milan is Italy's financial and fashion capital. Linate Airport is conveniently located near the city center with excellent private jet facilities.",
+    "popular_routes": [
+      "London",
+      "Paris",
+      "Rome",
+      "Geneva",
+      "Nice"
+    ],
+    "latitude": 45.4642,
+    "longitude": 9.19
+  },
+  {
+    "id": "MAD001",
+    "city": "Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "airport_code": "MAD",
+    "description": "Madrid combines rich history with modern business infrastructure. The airport offers dedicated private jet terminals with premium services.",
+    "popular_routes": [
+      "London",
+      "Paris",
+      "Barcelona",
+      "Lisbon",
+      "Rome"
+    ],
+    "latitude": 40.4168,
+    "longitude": -3.7038
+  },
+  {
+    "id": "ZRH001",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "region": "Europe",
+    "airport_code": "ZRH",
+    "description": "Zurich is a global financial center with excellent private aviation facilities. The airport offers quick access to the city and nearby ski resorts.",
+    "popular_routes": [
+      "London",
+      "Paris",
+      "Geneva",
+      "Frankfurt",
+      "Milan"
+    ],
+    "latitude": 47.3769,
+    "longitude": 8.5417
+  },
+  {
+    "id": "MOS001",
+    "city": "Moscow",
+    "country": "Russia",
+    "region": "Europe",
+    "airport_code": "VKO",
+    "description": "Moscow is a major business center with excellent private jet facilities at Vnukovo Airport, which has a dedicated terminal for VIP flights.",
+    "popular_routes": [
+      "London",
+      "Paris",
+      "Dubai",
+      "Geneva",
+      "St. Petersburg"
+    ],
+    "latitude": 55.7558,
+    "longitude": 37.6173
+  },
+  {
+    "id": "TOK001",
+    "city": "Tokyo",
+    "country": "Japan",
+    "region": "Asia",
+    "airport_code": "HND",
+    "description": "Tokyo is Japan's business and cultural center. Haneda Airport offers premium private jet services with excellent connections to the city.",
+    "popular_routes": [
+      "Hong Kong",
+      "Singapore",
+      "Seoul",
+      "Shanghai",
+      "Los Angeles"
+    ],
+    "latitude": 35.6762,
+    "longitude": 139.6503
+  },
+  {
+    "id": "RIO001",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "region": "South America",
+    "airport_code": "SDU",
+    "description": "Rio de Janeiro offers stunning beaches and vibrant culture. Santos Dumont Airport is conveniently located near the city center.",
+    "popular_routes": [
+      "Sao Paulo",
+      "Miami",
+      "New York",
+      "Buenos Aires",
+      "Mexico City"
+    ],
+    "latitude": -22.9068,
+    "longitude": -43.1729
+  },
+  {
+    "id": "CPT001",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Africa",
+    "airport_code": "CPT",
+    "description": "Cape Town offers stunning natural beauty and excellent business facilities. The airport provides dedicated private jet services.",
+    "popular_routes": [
+      "Johannesburg",
+      "Dubai",
+      "London",
+      "Paris",
+      "Nairobi"
+    ],
+    "latitude": -33.9249,
+    "longitude": 18.4241
+  },
+  {
+    "id": "AKL001",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "airport_code": "AKL",
+    "description": "Auckland is New Zealand's business hub with beautiful harbors and excellent connectivity. The airport offers premium private jet facilities.",
+    "popular_routes": [
+      "Sydney",
+      "Melbourne",
+      "Singapore",
+      "Hong Kong",
+      "Los Angeles"
+    ],
+    "latitude": -36.8509,
+    "longitude": 174.7645
+  }
+]
