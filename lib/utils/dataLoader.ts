@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Location, Aircraft, Service, Route } from '@/lib/types';
+import { Location, Aircraft, Service, Route } from '../types';
 
 /**
  * Load JSON data from a file

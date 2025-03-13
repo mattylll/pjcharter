@@ -1,5 +1,5 @@
 import { loadLocations, loadAircraft, loadServices, loadRoutes } from './dataLoader';
-import { Location, Aircraft, Service, Route } from '@/lib/types';
+import { Location, Aircraft, Service, Route } from '../types';
 
 /**
  * Generate paths for dynamic routes

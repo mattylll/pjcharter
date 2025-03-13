@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import { getResponsiveImagePaths, getImageDimensions, buildSrcSet, getImageSizes } from '@/lib/utils/imageHelper';
+import { getResponsiveImagePaths, getImageDimensions, buildSrcSet, getImageSizes } from '../lib/utils/imageHelper';
 
 interface ImageComponentProps {
   src: string;
