@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { loadAircraft, getItemById } from '@/lib/utils/dataLoader';
+import { loadAircraft, getItemById } from '../../../lib/utils/dataLoader';
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);

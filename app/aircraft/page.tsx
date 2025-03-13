@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { loadAircraft } from '@/lib/utils/dataLoader';
-import { Aircraft } from '@/lib/types';
+import { loadAircraft } from '../../lib/utils/dataLoader';
+import { Aircraft } from '../../lib/types';
 
 export const metadata: Metadata = {
   title: 'Private Jet Charter Aircraft | PJ Charter',

@@ -1,9 +1,9 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { loadAircraft, loadRoutes, getItemById, getRoutesForAircraft } from '@/lib/utils/dataLoader';
-import { generateAircraftMetadata } from '@/lib/utils/routeGenerator';
-import { Aircraft, Route } from '@/lib/types';
+import { loadAircraft, loadRoutes, getItemById, getRoutesForAircraft } from '../../../lib/utils/dataLoader';
+import { generateAircraftMetadata } from '../../../lib/utils/routeGenerator';
+import { Aircraft, Route } from '../../../lib/types';
 
 // Generate static paths for all aircraft
 export async function generateStaticParams() {

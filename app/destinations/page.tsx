@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { loadLocations } from '@/lib/utils/dataLoader';
-import { Location } from '@/lib/types';
+import { loadLocations } from '../../lib/utils/dataLoader';
+import { Location } from '../../lib/types';
 
 export const metadata: Metadata = {
   title: 'Private Jet Charter Destinations | PJ Charter',
