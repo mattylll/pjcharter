@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { loadRoutes, loadLocations, getItemById } from '@/lib/utils/dataLoader';
-import { Route, Location } from '@/lib/types';
+import { loadRoutes, loadLocations, getItemById } from '../../lib/utils/dataLoader';
+import { Route, Location } from '../../lib/types';
 
 export const metadata: Metadata = {
   title: 'Private Jet Charter Routes | PJ Charter',
